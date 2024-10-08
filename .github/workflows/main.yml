@@ -19,7 +19,7 @@ jobs:
         run: cmd /c show.bat
 
       - name: Time Counter
-        run: cmd /c loop.batname: Windows - LiteManager
+        run: cmd /c loop.batname:Windows - LiteManager
 
 on:
   workflow_dispatch:
